@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593358264 source:c:\users\sajal saini\desktop\c++\codes\28_june_codeforces\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<string>
+	<math.h>
+	<stack>
+

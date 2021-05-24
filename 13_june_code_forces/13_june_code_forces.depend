@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592067253 source:c:\users\sajal saini\desktop\c++\codes\13_june_code_forces\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+	<bits/stdc++.h>
+	<deque>
+

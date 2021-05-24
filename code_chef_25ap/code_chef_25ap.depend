@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587825713 source:c:\users\sajal saini\desktop\c++\internship\code_chef_25ap\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+

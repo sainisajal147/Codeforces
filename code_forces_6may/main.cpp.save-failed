@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+typedef long long ll;
+ll num(int h)
+{
+    return h*(h+1)+(h*(h-1))/2;
+}
+int main()
+{
+    ll t;
+    cin>>t;
+    while(t--)
+    {
+        ll n;
+        cin>>n;
+        ll x=1;
+        while(num(x)<=n)
+        {
+            x++;
+        }
+        cout<<x<<endl;
+    }
+    return 0;
+}

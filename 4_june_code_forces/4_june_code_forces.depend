@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591288562 source:c:\users\sajal saini\desktop\c++\codes\4_june_code_forces\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	<set>
+	<math.h>
+

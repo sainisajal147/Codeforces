@@ -1,0 +1,39 @@
+#include <iostream>
+#include<string>
+using namespace std;
+struct ele
+{
+    int l,r;
+};
+bool mod(int x,int a,int b)
+{
+    if(((x%a)%b)!=((x%b)%a))
+        return 1;
+    else
+        return 0;
+}
+int main()
+{
+   // long long int t;
+   // cin>>t;
+   // while(t--)
+   // {
+        int a,b,q;
+        cin>>a>>b>>q;
+        ele A[q];
+        for(int i=0;i<q;i++)
+        {
+            cin>>A[i].l>>A[i].r;
+            int x=A[i].l,n=0;
+            while(x>A[i].r)
+            {
+                if(mod(x,a,b))
+                    n++;
+                x++;
+            }
+            cout<<n<<" ";
+        }
+        cout<<endl;
+   // }
+    return 0;
+}

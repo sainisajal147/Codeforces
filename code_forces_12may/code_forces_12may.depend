@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589293974 source:c:\users\sajal saini\desktop\c++\internship\code_forces_12may\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

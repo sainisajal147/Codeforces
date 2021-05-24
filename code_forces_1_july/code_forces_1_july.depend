@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593628014 source:/media/sajal/A820BCCC20BCA2AC/Users/SAJAL SAINI/Desktop/c++/codes/code_forces_1_july/main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<string>
+	<bits/stdc++.h>
+
